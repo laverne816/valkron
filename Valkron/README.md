@@ -1,4 +1,4 @@
-# VALKRON — Architectural Appliances
+# VALKRON — Appliances
 
 A faithful interactive recreation of the supplied Valkron Appliances recording, built as a dependency-free responsive website.
 
